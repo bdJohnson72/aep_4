@@ -1,0 +1,11 @@
+{
+  "orgName": "aep_scratch",
+  "edition": "Developer",
+  "hasSampleData": false,
+  "features": [
+    "Communities",
+    "DataWeaveInApex",
+    "EinsteinGPTForDevelopers",
+    "ExperienceBundle"
+  ]
+}
